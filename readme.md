@@ -1,6 +1,6 @@
-# henryheffernan.com
+# solomonlijo.ml
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+This is one of two repositories created for my portfolio website <a href="https://solomonlijo.ml/"><samp>solomonlijo.ml</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/solomonshalom/90s-portfolio"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:solomonlijo@skiff.com">solomonlijo@skiff.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/shalomlijo"><samp>@shalomlijo</samp></a>.
 
 <br>
 
