@@ -1,5 +1,5 @@
 {
-    "repository": "#",
+    "repository": "https://github.com/solomonshalom/personal-portfolio",
     "license": "UNLICENSED",
     "scripts": {
         "start": "node server/index.ts",
