@@ -239,7 +239,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                     <p>But do enjoy what I have done so far :)</p>
                     <div style={styles.spacer} />
                     <div style={styles.spacer} /> */}
-                    <p>Solomon Shalom Lijo</p>
+                    <p>Konnichiwa! Click below to begin!</p>
                     {mobileWarning && (
                         <>
                             <br />
@@ -254,10 +254,6 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             <br />
                         </>
                     )}
-                    <div style={{ display: 'flex', alignItems: 'flex-end' }}>
-                        <p>Click start to begin{'\xa0'}</p>
-                        <span className="blinking-cursor" />
-                    </div>
                     <div
                         style={{
                             display: 'flex',
